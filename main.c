@@ -1,7 +1,7 @@
 int main()
 {
-  int a;
-  for (a = 0; a < 32; a++)
+  int i;
+  for (i = 0; i < 32; i++)
   {
     printf("Hello Holberton\n");
   }
